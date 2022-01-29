@@ -9,7 +9,7 @@
  - <strong>Note:</strong> <a href="https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20%26%20grammar/ch1.md#values-as-types">Values have types, not variables</a>.
  - Expressions:
     - <a href="https://javascript.info/operators#maths">Math operators</a>
-    - note: <a href ="https://www.youtube.com/watch?v=PZRI1IfStY0">Floating point math</a>
+    - <strong>note:</strong> <a href ="https://www.youtube.com/watch?v=PZRI1IfStY0">Floating point math</a>
     - <a href="https://javascript.info/operators#assignment">Assignment operators</a>
     - <a href="https://javascript.info/logical-operators">Logical operators</a>
     - <a href="https://javascript.info/comparison">Comparison operators</a>
