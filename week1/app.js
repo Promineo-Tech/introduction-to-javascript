@@ -107,4 +107,19 @@ console.log(typeof numberOfTentacles);
 let bandersnatch;
 console.log(bandersnatch); // undefined
 
-// null value
+// null value - intentional missing value
+bandersnatch = null;
+console.log(bandersnatch); // null
+
+// booleans - can perform logical operations
+let isSad = true; // isSad points to true
+let isHappy = !isSad; // isHappy points to the opposite of the isSad value (false)
+let isFeeling = isSad || isHappy; // Is at least one of them true? (true)
+let isConfusing = isSad && isHappy; // Are both true? (false)
+console.log(isSad, isHappy, isFeeling, isConfusing);
+
+// numbers - JavaScript performs floating point math 
+console.log(typeof(28)); // "number"
+console.log(typeof(3.14)); // "number"
+console.log(typeof(-140)); // "number"
+console.log(0.1 + 0.2 + 0.3); // 0.6000000000000001 (JavaScript is not exact)
