@@ -123,3 +123,9 @@ console.log(typeof(28)); // "number"
 console.log(typeof(3.14)); // "number"
 console.log(typeof(-140)); // "number"
 console.log(0.1 + 0.2 + 0.3); // 0.6000000000000001 (JavaScript is not exact)
+console.log(9007199254740992 === 9007199254740993) // true (JavaScript is not exact)
+
+// special numbers - Infinity and -Infinity
+// https://www.w3schools.com/jsref/jsref_infinity.asp
+console.log(1/0); // Infinity (exceeds the maximum number)
+console.log(-1/0); // -Infinity

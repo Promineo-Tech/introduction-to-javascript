@@ -13,5 +13,5 @@
     - <a href="https://javascript.info/operators#assignment">Assignment operators</a>
     - <a href="https://javascript.info/logical-operators">Logical operators</a>
     - <a href="https://javascript.info/comparison">Comparison operators</a>
- - Practice: freeCodeCamp:
+ - Practice: <a href="https://www.freecodecamp.org/">freeCodeCamp.org</a>
    - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">Basic JavaScript<a/>
