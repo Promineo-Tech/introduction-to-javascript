@@ -1,9 +1,10 @@
 # Introduction to JavaScipt
 
 - <strong>Week 1:</strong> 
-  - What is JavaScript? 
-  - What is the JavaScript Runtime Environment?
-  - Values (primitive and non-primitive)
+  - <a href="https://www.youtube.com/watch?v=upDLs1sn7g4">What is JavaScript?</a> 
+  - <a href="https://www.youtube.com/watch?v=xckH5s3UuX4">What is the JavaScript Runtime Environment?</a> 🤓 🤯 😳
+  - <a href="https://www.youtube.com/watch?v=AD5hxsFJc4o&t=293s">Using JavaScript in the browser</a>
+  - Values (<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values">primitive</a> and non-primitive)
     - Number
     - String
     - Boolean
@@ -11,7 +12,7 @@
     - Null (empty value) - taken away
     - Array
     - Object
- - Variables: - Using var, let and const
+ - Variables: use var (for now) to create variables
  - Operators
    - Assignment
    - Comparison
@@ -21,27 +22,29 @@
 - <strong>Week 2</strong>
   - Conditional statements
   - Loops
-  - for  
-  - do...while
-  - while 
+    - <a href="https://www.youtube.com/watch?v=s9wW2PpJsmQ">for</a>  
+    - <a href="https://www.youtube.com/watch?v=v9zgD8wjtbw">while and do...while</a>
 - <strong>Week 3</strong>
-  - Arrays
-   - Mutator methods
-   - Iterator methods 
-  - Functions 
+  - <a href="https://www.youtube.com/watch?v=oigfaZ5ApsM">Arrays</a>
+   - <a href="https://www.youtube.com/watch?v=xh7njXASFjU">Mutator methods<a/>
+   - <a href="https://www.youtube.com/playlist?list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT">Iterator methods</a> 
+  - <a href="https://www.youtube.com/watch?v=N8ap4k_1QEQ">Functions</a> 
     - Declarations 
     - Expressions
     - Arrow functions 
   - Higher Order functions (HOF)
   - Callback functions
 - <strong>Week 4</strong>
+  - Variables revisited: - <a href="https://www.youtube.com/watch?v=dzEieWaOJE0">var vs let vs const</a>
+  - Template Literals
+  - <a href="https://www.youtube.com/watch?v=hJHvdBlSxug">How the web works</a>
   - Promises
     - Synchronous vs Asynchronous
     - setTimeout()
     - .then() .catch()
     - async/await
-  - APIs (REST)
-  - Fetch API
+    - APIs (REST)
+    - Fetch API
 - <strong>Week 5</strong>
   - Object Oriented Programming
   - Objects
