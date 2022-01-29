@@ -1,6 +1,6 @@
 # Introduction to JavaScipt
 
-- Week 1: 
+- <strong>Week 1:</strong> 
   - What is JavaScript? 
   - What is the JavaScript Runtime Environment?
   - Values (primitive and non-primitive)
@@ -18,13 +18,13 @@
    - Arithmetic
    - Logical
  - Expressions: Any piece of code that resolves to a value
-- Week 2
+- <strong>Week 2</strong>
   - Conditional statements
   - Loops
   - for  
   - do...while
   - while 
-- Week 3
+- <strong>Week 3</strong>
   - Arrays
    - Mutator methods
    - Iterator methods 
@@ -34,7 +34,7 @@
     - Arrow functions 
   - Higher Order functions (HOF)
   - Callback functions
-- Week 4
+- <strong>Week 4</strong>
   - Promises
     - Synchronous vs Asynchronous
     - setTimeout()
@@ -42,12 +42,12 @@
     - async/await
   - APIs (REST)
   - Fetch API
-- Week 5
+- <strong>Week 5</strong>
   - Object Oriented Programming
   - Objects
   - ES6 classes
   - Inheritance
-- Week 6
+- <strong>Week 6</strong>
   - Test Driven Development
     - Mocha and Chai
     - Jest
