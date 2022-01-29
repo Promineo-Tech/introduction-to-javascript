@@ -1,5 +1,5 @@
 /*
- *   Primitive Values
+ *   Primitive Value Types
  *    - Undefined (undefined), used for unintentionally missing values.
  *    - Null (null), used for intentionally missing values.
  *    - Booleans (true and false), used for logical operations.
@@ -97,4 +97,14 @@ let numberOfTentacles = 10;
 numberOfTentacles = 'eight';
 console.log(typeof numberOfTentacles);
 
+// Yes it is valid. 
+// Variables don't have types, only values do. 
+// numberOfTentacles was pointing to a string when it's type was checked.
 
+/* ***** Primitive Value Types ***** */
+
+// undefined value
+let bandersnatch;
+console.log(bandersnatch); // undefined
+
+// null value
