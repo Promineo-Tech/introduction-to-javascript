@@ -1,6 +1,7 @@
 # Introduction to JavaScipt
 
 - <strong>Week 1:</strong> 
+  - Frontend Developer Roadmap
   - What is JavaScript? 
   - What is the JavaScript Runtime Environment?
   - Using JavaScript in the browser
