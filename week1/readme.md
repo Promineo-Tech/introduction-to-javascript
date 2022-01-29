@@ -1,4 +1,4 @@
-# Week 1 - 
+# Week 1
 
  - <a href="https://roadmap.sh/frontend">Frontend Roadmap</a>
  - <a href="https://javascript.info/hello-world">The "script" tag - embedding JavaScript in the browser</a>
@@ -11,6 +11,5 @@
     - <a href="https://javascript.info/operators#assignment">Assignment operators</a>
     - <a href="https://javascript.info/logical-operators">Logical operators</a>
     - <a href="https://javascript.info/comparison">Comparison operators</a>
-    - 
  - Practice: freeCodeCamp:
    - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">Basic JavaScript<a/>
