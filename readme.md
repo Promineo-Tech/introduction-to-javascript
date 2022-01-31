@@ -7,7 +7,7 @@
   - Using JavaScript in the browser
   - Values (primitive and non-primitive)
     - Number
-    - String
+    - Strings
     - Boolean
     - Undefined (empty value) - never given
     - Null (empty value) - taken away
