@@ -17,7 +17,12 @@
  - Operators
  - Expressions: Any piece of code that resolves to a value
 - <strong>Week 2</strong>
+  - Type coercion
+  - Truthy vs falsy
   - Conditional statements
+    - if...else
+    - ternary
+    - switch
   - Loops
     - for 
     - while and do...while
