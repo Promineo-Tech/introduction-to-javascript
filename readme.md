@@ -42,6 +42,7 @@
   - Callbacks
   - Higher Order Functions
     - Array iterator methods (forEach, map, filter, reduce)
+    - Creating your own HOF functions
 - <strong>Week 5</strong>
   - Object Oriented Programming (OOP)
   - Objects
