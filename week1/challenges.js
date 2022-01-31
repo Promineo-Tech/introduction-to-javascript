@@ -3,7 +3,7 @@
  * 
  *   Following the instructions and add the code under the instruction.
  *   
- *   Note: You will need to point this "challenges.js" file to an .html file.
+ *   Note: Create an HTML file and link to it from the "challenges.js" file.
  *         Use the <script src="challenges.js"> tag to include the file.
  *         Place the code in the <script> tag right before the closing </HTML> tag.
  *         https://www.w3schools.com/tags/att_script_src.asp

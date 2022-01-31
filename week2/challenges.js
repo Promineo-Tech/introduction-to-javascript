@@ -22,7 +22,7 @@ let countDown = 10;
 // console.log(countDown) // -> should print 0;
 
 /* 
-   Challenge 1
+   Challenge #1
    Use a while loop to increment count by 2 on each repetition of the block of code. 
    Run the code block of your while loop until count is 8.
 */
@@ -36,7 +36,7 @@ let count1 = 2;
 
 
 /* 
-   Challenge 2
+   Challenge #2
    Use a while loop to increment count by 2 on each repetition of the block of code. 
    Run the code block of your while loop until count is 8.
 */

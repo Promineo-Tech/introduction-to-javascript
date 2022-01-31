@@ -39,14 +39,9 @@
 - <strong>Week 4</strong>
   - Variables revisited: - var vs let vs const
   - Template Literals
-  - How the web works
-  - Promises
-    - Synchronous vs Asynchronous
-    - setTimeout()
-    - .then() .catch()
-    - async/await
-    - APIs (REST)
-    - Fetch API
+  - Callbacks
+  - Higher Order Functions
+    - Array iterator methods (forEach, map, filter, reduce)
 - <strong>Week 5</strong>
   - Object Oriented Programming (OOP)
   - Objects
