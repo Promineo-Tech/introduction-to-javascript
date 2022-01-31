@@ -7,9 +7,10 @@
    - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Truthy">truthy</a> vs <a href="https://developer.mozilla.org/en-US/docs/Glossary/Falsy">falsy</a>
    - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion">Type coercion</a>
    - if statements
-  - Loops
+  - Loops (iteration)
     - for 
     - while and do...while
+    - looping through strings
  - Review: 
     - Reference:
       - <a href="https://wesbos.com/javascript">Wes Bos</a>
