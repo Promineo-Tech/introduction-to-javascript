@@ -13,7 +13,7 @@
 // Declare a variable favFood and assign it a value of "tacos"
 // ADD CODE BELOW
 
-// Try un-commenting the line below to test your answer
+// Uncomment the line below to test your answer
 // console.log("My favorite food is " + favFood);
 
 // Uncomment the line below to check your work!
@@ -42,12 +42,10 @@
 // const sheSaid = 'My name ain't Foo!';
 // console.log(sheSaid);
 
-/*
-    Challenge 4
-    Use string concatenation to join the three provided strings (first, second, and third)
-    and assign the resulting string to a variable called welcomeStatement.
-    The value of welcomeStatement should be 'Welcome to the jungle!'
-*/
+// Challenge 4
+// Use string concatenation to join the three provided strings (first, second, and third)
+//   and assign the resulting string to a variable called welcomeStatement.
+//   The value of welcomeStatement should be 'Welcome to the jungle!'
 
 const first = "Welcome";
 const second = "to the";
