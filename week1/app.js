@@ -1,5 +1,5 @@
 /*
- *   Primitive Value Types
+ *   Primitive Value Types (remember the word "value")
  *    - Undefined (undefined), used for unintentionally missing values.
  *    - Null (null), used for intentionally missing values.
  *    - Booleans (true and false), used for logical operations.
@@ -36,9 +36,9 @@
  *        https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing
  */
 
-var a = 10;
-var b = a;
-a = 0;
+var a = 10; // a points to the value of 10
+var b = a; // b also points to the value of 10
+a = 0; // a now points to the value of 0
 
 console.log("a is equal to:", a)
 console.log("b is equal to:", b)
@@ -110,6 +110,12 @@ console.log(bandersnatch); // undefined
 // null value - intentional missing value
 bandersnatch = null;
 console.log(bandersnatch); // null
+
+// what displays in the console?
+let shampoo; 
+let soap = null;
+soap = shampoo; // remember: soap pointing to the value of shampoo, not variable shampoo
+console.log("soap is:", soap); 
 
 // booleans - can perform logical operations
 let isSad = true; // isSad points to true

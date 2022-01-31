@@ -2,6 +2,7 @@
 
  - <a href="https://roadmap.sh/frontend">Frontend Roadmap</a>
  - <a href="https://javascript.info/hello-world">The "script" tag - embedding JavaScript in the browser</a>
+ - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server Visual Studio Extension</a>
  - <a href="https://www.youtube.com/watch?v=BMKWdLX9w3M">JavaScript engine</a>
  - <a href="https://javascript.info/devtools">Developer console</a>
  - <a href="https://javascript.info/types">Data types</a> 
