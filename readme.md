@@ -23,7 +23,7 @@
     - if...else
     - ternary
     - switch
-  - Loops
+  - Loops (iteration)
     - for 
     - while and do...while
 - <strong>Week 3</strong>
