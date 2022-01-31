@@ -48,7 +48,7 @@
     - APIs (REST)
     - Fetch API
 - <strong>Week 5</strong>
-  - Object Oriented Programming
+  - Object Oriented Programming (OOP)
   - Objects
   - ES6 classes
   - Inheritance
