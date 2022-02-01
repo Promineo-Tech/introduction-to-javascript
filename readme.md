@@ -13,10 +13,10 @@
     - Null (empty value) - taken away
     - Array
     - Object
- - Variables 
+  - Variables 
    - use var (for now) 
- - Operators
- - Expressions
+  - Operators
+  - Expressions
 - <strong>Week 2</strong>
   - Type coercion
   - Truthy vs falsy
