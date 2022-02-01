@@ -11,10 +11,11 @@
     - for 
     - while and do...while
     - looping through strings
- - Review: 
+ - Additional Resources: 
     - Reference:
       - <a href="https://wesbos.com/javascript">Wes Bos</a>
     - Youtube:
       - <a href="https://www.youtube.com/watch?v=x2RNw4M6cME">Colt Steele</a>
       - <a href="https://www.youtube.com/playlist?list=PL7TLF4T4Tq2TtNmadzRfxYIB9683uhpbD">Dev Dreamer</a> 
       - <a href="https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD">Hitesh Choudhary</a>
+      - <a href="https://pythontutor.com/javascript.html#mode=edit">Visualizer</a>
