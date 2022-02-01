@@ -14,7 +14,7 @@
     - Array
     - Object
  - Variables 
-  - use var (for now) 
+   - use var (for now) 
  - Operators
  - Expressions
 - <strong>Week 2</strong>
