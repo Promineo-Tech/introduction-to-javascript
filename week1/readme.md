@@ -18,5 +18,7 @@
  - Additional Resources:
    - <a href="https://roadmap.sh/frontend">Frontend Roadmap</a>
    - <a href="https://www.youtube.com/watch?v=uut8y9RHG48">JavaScript Under the Hood</a>
+   - <a href="https://www.youtube.com/watch?v=9ooYYRLdg_g">Primitive Data Types Under the Hood</a>
    - <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md#compiled-vs-interpreted">Compiling vs Interpretation (JIT)</a>
    - <a href="https://www.youtube.com/watch?v=BMKWdLX9w3M">JavaScript engine</a>
+  
