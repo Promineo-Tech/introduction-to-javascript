@@ -13,9 +13,10 @@
     - Null (empty value) - taken away
     - Array
     - Object
- - Variables: use var (for now) to create variables
+ - Variables 
+  - use var (for now) 
  - Operators
- - Expressions: Any piece of code that resolves to a value
+ - Expressions
 - <strong>Week 2</strong>
   - Type coercion
   - Truthy vs falsy
