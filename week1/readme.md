@@ -17,7 +17,6 @@
  - Practice: <a href="https://www.freecodecamp.org/">freeCodeCamp.org</a>
    - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">Basic JavaScript<a/>
  - Additional Resources:
- 
    - <a href="https://roadmap.sh/frontend">Frontend Roadmap</a>
    - <a href="https://javascript.info/">JavaScript.Info</a>
    - <a href="https://www.w3schools.com/js/default.asp">W3Schools.com</a>
