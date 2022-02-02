@@ -1,7 +1,7 @@
 # Week 1
 
  - <a href="https://www.codecademy.com/article/what-is-programming">What is Programming?</a> 
- - <a href="ttps://docs.emmet.io/cheat-sheet/">Emmet Cheatsheet</a>
+ - <a href="https://docs.emmet.io/cheat-sheet/">Emmet Cheatsheet</a>
  - <a href="https://javascript.info/hello-world">The "script" tag - embedding JavaScript in the browser</a>
  - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server Visual Studio Extension</a>
 
