@@ -16,6 +16,7 @@
     - <a href="https://javascript.info/comparison">Comparison operators</a>
  - Extra Coding Practice:
    - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">FreeCodeCamp.org<a/>
+   - <a href="https://coderbyte.com/starter-course/learn-javascript-in-one-week">Coderbyte</a>
  - Additional Resources:
    - <a href="https://roadmap.sh/frontend">Frontend Roadmap</a>
    - <a href="https://javascript.info/">JavaScript.Info</a>
