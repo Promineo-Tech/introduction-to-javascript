@@ -6,6 +6,7 @@
  - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server Visual Studio Extension</a>
 
  - <a href="https://javascript.info/devtools">Developer console</a>
+ - <a href="https://www.ladybug.dev/episodes/debugging">Ladybug Podcast - Debugging</a>
  - <a href="https://javascript.info/types">Data types</a> 
  - <a href="https://javascript.info/variables">Variables</a>
  - <strong>Note:</strong> <a href="https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20%26%20grammar/ch1.md#values-as-types">Values have types, not variables</a>.
