@@ -25,8 +25,8 @@
    - <a href="https://www.w3schools.com/js/default.asp">W3Schools.com</a>
    - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">MDN Web Docs</a>
    - Visual Studio Code Shortcuts
-     - <a href="/assets/vsc-mac-keyboard-shortcuts">Mac</a>
-     - <a href="/assets/vsc-windows-keyboard-shortcuts">Windows</a>
+     - <a href="assets/vsc-mac-keyboard-shortcuts">Mac</a>
+     - <a href="assets/vsc-windows-keyboard-shortcuts">Windows</a>
    - <a href="https://wesbos.com/javascript">Wes Bos JavaScript Reference</a>
    - More technical (not required):
      - <a href="https://www.youtube.com/watch?v=9ooYYRLdg_g">Primitive Data Types Under the Hood</a>
