@@ -35,4 +35,5 @@
      - <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md#compiled-vs-interpreted">Compiling vs Interpretation</a>
      - <a href="https://www.youtube.com/watch?v=BHttnG4kOdY">JavaScript JIT (Just in Time) Compilation</a>
      - <a href="https://www.youtube.com/watch?v=Wpeym1_lmPo">Java vs JavaScript</a>
+     - <a href="https://www.youtube.com/watch?v=C06MohLG_3s">What is an AST (Abstract Syntax Tree)?</a>
      - <a href="https://astexplorer.net/">AST Explorer</a>
