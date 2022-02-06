@@ -14,7 +14,7 @@
  - Additional Resources: 
     - Reference:
       - <a href="https://wesbos.com/javascript">Wes Bos</a>
-      -  <a href="https://pythontutor.com/javascript.html#mode=edit">Visualizer</a>
+      -  <a href="https://pythontutor.com/javascript.html#mode=edit">Visualizer</a> (follow the flow your code)
     - Youtube:
       - <a href="https://www.youtube.com/watch?v=x2RNw4M6cME">Colt Steele</a>
       - <a href="https://www.youtube.com/playlist?list=PL7TLF4T4Tq2TtNmadzRfxYIB9683uhpbD">Dev Dreamer</a> 
